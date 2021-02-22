@@ -20,7 +20,7 @@
     },
     "require": {
         "php": "^7.4||^8.0",
-        "vection-framework/contracts": "v0.*",
+        "vection-framework/contracts": "dev-master",
         "psr/log": "~1.0",
         "psr/container": "^1.0"
     },
